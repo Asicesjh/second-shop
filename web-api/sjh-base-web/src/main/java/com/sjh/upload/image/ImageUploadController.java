@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
+/**
+ * 沈俊豪
+ * 
+ * **/
 @RestController
 @RequestMapping("/api/upload")
 public class ImageUploadController {
